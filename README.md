@@ -1,16 +1,36 @@
-## Hi there 👋
+# Michael A. Kayser, DO, FACMG
 
-<!--
-**michaelkayser1/michaelkayser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physician Geneticist | Clinical AI Systems Builder | Founder, Resona OS
 
-Here are some ideas to get you started:
+I build clinical-grade AI alignment tools focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Human–AI calibration  
+- Clinical decision support safety layers  
+- Coherence-based monitoring systems  
+- Middleware for regulated healthcare environments  
+
+---
+
+## Current Work
+
+### Resona OS
+Clinical AI middleware designed to:
+- Monitor physiologic coherence
+- Provide AI output safety gating
+- Support regulatory-aligned deployment
+
+### Research
+Applied systems theory, oscillatory stability, and coherence modeling for AI safety.
+
+---
+
+## Background
+- Board-certified Medical Geneticist (FACMG)  
+- Founder, Kayser Medical PLLC  
+- Federal physician review panel consultant  
+
+---
+
+## Contact
+mike@kayser-medical.com  
+Tulsa, Oklahoma
