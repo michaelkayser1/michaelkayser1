@@ -26,8 +26,7 @@ Applied systems theory, oscillatory stability, and coherence modeling for AI saf
 
 ## Background
 - Board-certified Medical Geneticist (FACMG)  
-- Founder, Kayser Medical PLLC  
-- Federal physician review panel consultant  
+- Founder, Kayser Medical PLLC    
 
 ---
 
