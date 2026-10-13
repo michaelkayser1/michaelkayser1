@@ -1,6 +1,6 @@
-# Michael A. Kayser, DO, FACMG
+# Michael Anthony Kayser, DO, FACMG
 
-Physician Geneticist | AI Systems Researcher | Founder, Resona OS
+Clinical Geneticist | AI Systems Researcher | Founder, Resona OS
 
 I develop and study AI control tools focused on:
 
